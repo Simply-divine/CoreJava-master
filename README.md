@@ -1,2 +1,2 @@
 # CoreJava
-Full Core Java example
+Code may be buggy..use at your own risk..
