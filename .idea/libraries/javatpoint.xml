@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javatpoint">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../javatpoint/out/artifacts/javatpoint_jar/javatpoint.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
