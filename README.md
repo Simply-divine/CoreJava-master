@@ -1,2 +1,2 @@
 # CoreJava
-Code may be buggy..use at your own risk..
+Code may be little buggy..use at your own risk..
